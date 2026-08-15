@@ -1,4 +1,4 @@
-# Sketch to Color Image Generation Using Conditional GANs
+# Sketch to Image Generation Using Conditional GANs
 
 ![Sketch to Color Image Generation using Conditional GANs](./assets/outputs.gif)
 
