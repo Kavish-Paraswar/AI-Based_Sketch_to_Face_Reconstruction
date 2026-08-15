@@ -1,10 +1,8 @@
 # Sketch to Color Image Generation Using Conditional GANs
 
-## Read my article on [Medium](https://towardsdatascience.com/generative-adversarial-networks-gans-89ef35a60b69)
-
 ![Sketch to Color Image Generation using Conditional GANs](./assets/outputs.gif)
 
-Sketch to Color Image generation is an image-to-image translation model using Conditional Generative Adversarial Networks as described in the original paper by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros 2016, [Image-to-Image Translation with Conditional Adversarial Networks](https://arxiv.org/abs/1611.07004).
+Sketch to Color Image generation is an image-to-image translation model using Conditional Generative Adversarial Networks as described in the original paper by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros 2016
 
 The model was trained on the [Anime Sketch-Colorization Pair Dataset](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair) available on Kaggle which contains 14.2k pairs of Sketch-Color Anime Images. The training of the model was done for 150 epochs which took approximately 23 hours on a single GeForce GTX 1060 6GB Graphic Card and 16 GB RAM.
 
@@ -91,7 +89,6 @@ It is all opensource and for further research purpose, so contact me if you...
 4. ...want to share a feedback on the work
 5. ...etc.
 
-Send me a mail at [tejasmorkar@gmail.com](tejasmorkar@gmail.com) or [create a new Issue](https://github.com/tejasmorkar/sketch-to-color/issues/new) on this repository.
 You can also contact me through my [LinkedIn Profile](https://www.linkedin.com/in/tejasmorkar/).
 
 ## License
